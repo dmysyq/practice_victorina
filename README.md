@@ -54,12 +54,6 @@ practice_victorina/
 │               ├── dimens.xml          # Размеры шрифтов и отступов
 │               ├── strings.xml         # Все локализованные строки
 │               └── themes.xml          # Темы оформления приложения
-├── docs/                               # Документация к практической работе
-│   ├── 01_overview.md                  # Общее описание проекта
-│   ├── 02_architecture_and_activities.md # Архитектура экранов и явные Intent
-│   ├── 03_layouts_and_styling.md       # Контейнеры ViewGroup и стили
-│   ├── 04_json_storage.md              # Хранение вопросов в формате JSON
-│   └── 05_logging_and_evaluation.md    # Логирование и соответствие критериям (11/11)
 ├── logs/
 │   └── logs.txt                        # Логирование Logcat по сценарию работы
 └── README.md
