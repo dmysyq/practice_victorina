@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Корневой контейнер RelativeLayout согласно Листингу 6 методических указаний -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/resultRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_graphite"
+    android:padding="@dimen/screen_padding">
+
+    <!-- Иконка кубка в левом верхнем углу -->
+    <ImageView
+        android:id="@+id/ivTrophy"
+        android:layout_width="@dimen/icon_size_hero"
+        android:layout_height="@dimen/icon_size_hero"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:contentDescription="@string/desc_trophy_icon"
+        android:src="@drawable/ic_trophy" />
+
+    <!-- Имя игрока справа от иконки кубка -->
+    <TextView
+        android:id="@+id/tvResultPlayerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/ivTrophy"
+        android:layout_marginStart="@dimen/margin_medium"
+        android:layout_toEndOf="@id/ivTrophy"
+        android:textColor="@color/color_rust"
+        android:textSize="@dimen/text_title"
+        android:textStyle="bold" />
+
+    <!-- Название темы под именем игрока -->
+    <TextView
+        android:id="@+id/tvResultQuizTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@id/tvResultPlayerName"
+        android:layout_below="@id/tvResultPlayerName"
+        android:layout_marginTop="@dimen/margin_tiny"
+        android:textColor="@color/color_chrome"
+        android:textSize="@dimen/text_body_small" />
+
+    <!-- Карточка со счетом и оценкой по центру экрана -->
+    <LinearLayout
+        android:id="@+id/layoutScoreCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ivTrophy"
+        android:layout_marginTop="@dimen/margin_large"
+        android:background="@drawable/bg_card_graphite"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/card_padding_large">
+
+        <TextView
+            android:id="@+id/tvScoreNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/color_rust"
+            android:textSize="@dimen/text_score_large"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvPercentage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_tiny"
+            android:textColor="@color/color_chrome_light"
+            android:textSize="@dimen/text_subtitle" />
+
+        <TextView
+            android:id="@+id/tvVerdict"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_medium"
+            android:gravity="center"
+            android:textColor="@color/color_text_light"
+            android:textSize="@dimen/text_body" />
+
+    </LinearLayout>
+
+    <!-- Контейнер с кнопками, прижатый к нижнему краю экрана согласно Листингу 7 -->
+    <LinearLayout
+        android:id="@+id/layoutBottomButtons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnPlayAgain"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/button_height"
+            android:layout_weight="1"
+            android:background="@drawable/bg_button_rust"
+            android:text="@string/btn_play_again"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_button"
+            android:textStyle="bold" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnHome"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/button_height"
+            android:layout_marginStart="@dimen/margin_small"
+            android:layout_weight="1"
+            android:background="@drawable/bg_button_chrome"
+            android:text="@string/btn_home"
+            android:textColor="@color/color_text_dark"
+            android:textSize="@dimen/text_button"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</RelativeLayout>

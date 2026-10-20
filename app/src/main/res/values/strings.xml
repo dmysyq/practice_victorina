@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Викторина_прак1</string>
+
+    <!-- MainActivity -->
+    <string name="main_title">Викторина</string>
+    <string name="section_player_info">Имя пользователя</string>
+    <string name="hint_player_name">Введите ваше имя</string>
+    <string name="section_quiz_select">Выберите тему викторины:</string>
+    <string name="btn_start_quiz">Начать викторину</string>
+    <string name="btn_clear_name">Очистить</string>
+    <string name="msg_empty_name">Пожалуйста, введите имя перед началом игры!</string>
+
+    <!-- Темы викторины -->
+    <string name="quiz_space_title">Космос и планеты (10 вопросов)</string>
+    <string name="quiz_interstellar_title">Фильм: Интерстеллар (8 вопросов)</string>
+    <string name="quiz_star_wars_title">Фильм: Звёздные войны (10 вопросов)</string>
+    <string name="quiz_kotlin_title">Язык Kotlin (10 вопросов)</string>
+    <string name="quiz_capitals_title">Столицы государств (15 вопросов)</string>
+
+    <!-- (QuizActivity -->
+    <string name="quiz_header_title">Раунд вопросов</string>
+    <string name="quiz_player_label">Игрок: %1$s</string>
+    <string name="quiz_progress_format">Вопрос %1$d из %2$d</string>
+    <string name="btn_confirm_answer">Ответить</string>
+    <string name="btn_next_question">Следующий вопрос</string>
+    <string name="btn_finish_quiz">Завершить викторину</string>
+    <string name="msg_select_option">Пожалуйста, выберите один вариант ответа</string>
+
+    <!-- ResultActivity -->
+    <string name="result_screen_title">Итоги викторины</string>
+    <string name="result_congrats_format">Игрок: %1$s</string>
+    <string name="result_quiz_topic_format">Тема: %1$s</string>
+    <string name="result_score_format">%1$d / %2$d</string>
+    <string name="result_percentage_format">%1$d%% верных ответов</string>
+    
+    <string name="verdict_perfect">Великолепный результат!</string>
+    <string name="verdict_good">Отличная работа!</string>
+    <string name="verdict_average">Неплохой результат</string>
+    <string name="verdict_low">Попробуйте еще раз</string>
+
+    <string name="btn_play_again">Пройти снова</string>
+    <string name="btn_home">В главное меню</string>
+
+    <string name="desc_quiz_logo">Логотип викторины</string>
+    <string name="desc_trophy_icon">Иконка кубка</string>
+</resources>

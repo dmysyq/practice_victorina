@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_graphite"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="@dimen/screen_padding">
+
+        <TextView
+            android:id="@+id/tvMainTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_medium"
+            android:text="@string/main_title"
+            android:textColor="@color/color_rust"
+            android:textSize="@dimen/text_heading"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_large"
+            android:background="@drawable/bg_card_graphite"
+            android:orientation="vertical"
+            android:padding="@dimen/card_padding">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/section_player_info"
+                android:textAllCaps="true"
+                android:textColor="@color/color_chrome"
+                android:textSize="@dimen/text_caption"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/etPlayerName"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/input_height"
+                android:layout_marginTop="@dimen/margin_small"
+                android:background="@drawable/bg_input_field"
+                android:hint="@string/hint_player_name"
+                android:inputType="textPersonName|textCapWords"
+                android:maxLines="1"
+                android:paddingStart="@dimen/card_padding"
+                android:paddingEnd="@dimen/card_padding"
+                android:textColor="@color/color_text_light"
+                android:textColorHint="@color/color_chrome_dark"
+                android:textSize="@dimen/text_body" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_medium"
+                android:text="@string/section_quiz_select"
+                android:textColor="@color/color_chrome_light"
+                android:textSize="@dimen/text_body" />
+
+            <Spinner
+                android:id="@+id/spinnerQuizTopic"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/input_height"
+                android:layout_marginTop="@dimen/margin_small"
+                android:background="@drawable/bg_spinner"
+                android:paddingStart="@dimen/card_padding"
+                android:paddingEnd="@dimen/card_padding" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_large"
+            android:orientation="horizontal">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnStartQuiz"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/button_height"
+                android:layout_weight="2"
+                android:background="@drawable/bg_button_rust"
+                android:text="@string/btn_start_quiz"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_button"
+                android:textStyle="bold" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnClearName"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/button_height"
+                android:layout_marginStart="@dimen/margin_small"
+                android:layout_weight="1"
+                android:background="@drawable/bg_button_chrome"
+                android:text="@string/btn_clear_name"
+                android:textColor="@color/color_text_dark"
+                android:textSize="@dimen/text_button"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

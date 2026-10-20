@@ -1,0 +1,66 @@
+{
+  "id": "kotlin",
+  "title": "Язык Kotlin",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Какое ключевое слово в Kotlin объявляет неизменяемую (read-only) переменную?",
+      "options": ["var", "let", "val", "const"],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Какое ключевое слово используется для объявления переменной, значение которой можно менять?",
+      "options": ["var", "val", "mut", "dynamic"],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Как в Kotlin объявляется тип данных, который может содержать null?",
+      "options": ["String?", "String!", "Nullable<String>", "optional String"],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Какой метод жизненного цикла Activity вызывается первым при создании экрана?",
+      "options": ["onStart()", "onCreate()", "onResume()", "onInit()"],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Какой системный класс Android применяется для явного перехода между Activity?",
+      "options": ["Intent", "Bundle", "ContextRouter", "Navigator"],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Как в языке Kotlin неофициально называют оператор `?:`?",
+      "options": ["Оператор Элвиса", "Тернарный оператор", "Оператор диапазона", "Сэндвич-оператор"],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Какое ключевое слово создает класс с автоматически сгенерированными equals(), hashCode() и copy()?",
+      "options": ["data class", "struct", "record", "value object"],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "Какой метод класса Logcat предназначен для вывода отладочных сообщений разработчика?",
+      "options": ["Log.d()", "Log.i()", "Log.w()", "Log.e()"],
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "question": "Какой минимальный уровень Android API соответствует версии 8.0 Oreo?",
+      "options": ["API 21", "API 24", "API 26", "API 30"],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Какая область видимости функций в Kotlin является значением по умолчанию?",
+      "options": ["public", "private", "protected", "internal"],
+      "correctIndex": 0
+    }
+  ]
+}

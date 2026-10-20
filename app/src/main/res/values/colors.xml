@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Ржавый (#B7472A), Хром (#BFC4C7), Графит (#20252B) -->
+    <color name="color_rust">#B7472A</color>
+    <color name="color_rust_dark">#8F331C</color>
+    <color name="color_rust_light">#D65E42</color>
+
+    <color name="color_chrome">#BFC4C7</color>
+    <color name="color_chrome_light">#E2E5E7</color>
+    <color name="color_chrome_dark">#8E9498</color>
+
+    <color name="color_graphite">#20252B</color>
+    <color name="color_graphite_card">#2A3038</color>
+    <color name="color_graphite_surface">#181C20</color>
+    <color name="color_graphite_border">#373E47</color>
+
+    <!-- Текстовые и статусные цвета -->
+    <color name="color_text_light">#F5F6F8</color>
+    <color name="color_text_muted">#BFC4C7</color>
+    <color name="color_text_dark">#20252B</color>
+
+    <color name="color_correct">#2E7D32</color>
+    <color name="color_correct_bg">#1B5E20</color>
+    <color name="color_wrong">#C62828</color>
+    <color name="color_wrong_bg">#8E0000</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

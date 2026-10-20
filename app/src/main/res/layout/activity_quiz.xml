@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/quizRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_graphite"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/screen_padding">
+
+        <!-- Верхняя карточка с темой и именем игрока -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_card_graphite"
+            android:orientation="vertical"
+            android:padding="@dimen/card_padding">
+
+            <TextView
+                android:id="@+id/tvQuizTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/color_rust"
+                android:textSize="@dimen/text_subtitle"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvPlayerName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_tiny"
+                android:textColor="@color/color_chrome"
+                android:textSize="@dimen/text_body_small" />
+
+            <ProgressBar
+                android:id="@+id/pbQuestionProgress"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/progress_bar_height"
+                android:layout_marginTop="@dimen/margin_small"
+                android:progressDrawable="@drawable/bg_button_rust" />
+
+            <TextView
+                android:id="@+id/tvQuestionCounter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginTop="@dimen/margin_tiny"
+                android:textColor="@color/color_chrome_light"
+                android:textSize="@dimen/text_caption" />
+
+        </LinearLayout>
+
+        <!-- Карточка вопроса -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_medium"
+            android:background="@drawable/bg_card_graphite"
+            android:orientation="vertical"
+            android:padding="@dimen/card_padding">
+
+            <TextView
+                android:id="@+id/tvQuestionText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lineSpacingExtra="4dp"
+                android:textColor="@color/color_text_light"
+                android:textSize="@dimen/text_subtitle"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <!-- Варианты ответов -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_medium"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnOption0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="@dimen/option_button_min_height"
+                android:background="@drawable/bg_option_default"
+                android:gravity="start|center_vertical"
+                android:padding="@dimen/card_padding"
+                android:textColor="@color/color_text_light"
+                android:textSize="@dimen/text_option" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnOption1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_small"
+                android:minHeight="@dimen/option_button_min_height"
+                android:background="@drawable/bg_option_default"
+                android:gravity="start|center_vertical"
+                android:padding="@dimen/card_padding"
+                android:textColor="@color/color_text_light"
+                android:textSize="@dimen/text_option" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnOption2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_small"
+                android:minHeight="@dimen/option_button_min_height"
+                android:background="@drawable/bg_option_default"
+                android:gravity="start|center_vertical"
+                android:padding="@dimen/card_padding"
+                android:textColor="@color/color_text_light"
+                android:textSize="@dimen/text_option" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnOption3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_small"
+                android:minHeight="@dimen/option_button_min_height"
+                android:background="@drawable/bg_option_default"
+                android:gravity="start|center_vertical"
+                android:padding="@dimen/card_padding"
+                android:textColor="@color/color_text_light"
+                android:textSize="@dimen/text_option" />
+
+        </LinearLayout>
+
+        <!-- Кнопка действия (Ответить / Далее) -->
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnAction"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/button_height"
+            android:layout_marginTop="@dimen/margin_large"
+            android:layout_marginBottom="@dimen/margin_large"
+            android:background="@drawable/bg_button_rust"
+            android:text="@string/btn_confirm_answer"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_button"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</ScrollView>

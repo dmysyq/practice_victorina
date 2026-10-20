@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Practice_victorina" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/color_rust</item>
+        <item name="colorPrimaryVariant">@color/color_rust_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/color_chrome</item>
+        <item name="colorSecondaryVariant">@color/color_chrome_dark</item>
+        <item name="colorOnSecondary">@color/color_graphite</item>
+
+        <item name="android:windowBackground">@color/color_graphite</item>
+        <item name="android:statusBarColor">@color/color_graphite_surface</item>
+        <item name="android:navigationBarColor">@color/color_graphite_surface</item>
+    </style>
+
+    <style name="Theme.Practice_victorina" parent="Base.Theme.Practice_victorina" />
+</resources>

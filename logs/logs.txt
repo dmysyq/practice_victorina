@@ -1,0 +1,548 @@
+2026-10-15 10:07:04.848  1651-1651  ActivityThread          com.example.practice_victorina       D  Set OS env TMPDIR to /data/user/0/com.google.android.gms/cache
+2026-10-15 10:07:05.628  1651-1651  AconfigFlags            com.example.practice_victorina       I  Using new flag storage
+2026-10-15 10:07:07.206  1651-1651  LoadedApk               com.example.practice_victorina       W  New application info for package com.google.android.gms is out of date with TS 69858 < the current TS 70396
+2026-10-15 10:07:07.206  1651-1651  ActivityThread          com.example.practice_victorina       I  ApplicationInfo updating for com.google.android.gms, new timestamp: 69858
+                                                                                                    assets removed: []
+                                                                                                    assets added: [/data/resource-cache/android-dynamic_0-LN36.frro]
+2026-10-15 10:07:07.210  1651-1651  ActivityThread          com.example.practice_victorina       W  getPackageInfo() called with an older ApplicationInfo than the cached version for package com.google.android.gms
+2026-10-15 10:07:07.339  1651-1651  ActivityThread          com.example.practice_victorina       W  getPackageInfo() called with an older ApplicationInfo than the cached version for package com.google.android.gms
+2026-10-15 10:07:39.868  1651-3240  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:39.879  1651-3240  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:45.663  1651-2335  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:45.680  1651-1833  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:45.700  1651-2335  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:45.795  1651-2335  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:45.857  1651-1833  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:45.881  1651-1833  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:45.941  1651-1833  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:45.970  1651-2335  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:45.976  1651-1833  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:46.082  1651-1833  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:46.291  1651-1833  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:46.623  1651-2335  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:48.314  1651-2335  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:48.355  1651-1833  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:48.376  1651-2335  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:49.461  1651-1833  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:07:59.921  1651-1833  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:08:13.340  1651-3190  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:12:17.790  1651-8941  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 10:12:17.803  1651-8941  ActivityThread          com.example.practice_victorina       D  Too many transaction errors, throttling transaction error callback.
+2026-10-15 11:08:54.198  1629-1629  libc                    com.example.practice_victorina       A  Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 1629 (android.hardwar), pid 1629 (android.hardwar)
+2026-10-20 19:27:28.142   682-750   PackageManager          system_server                        E  Error occurred while checking alignment of package : com.example.practice_victorina
+2026-10-20 19:27:31.094 17203-17203 libprocessgroup         com.example.practice_victorina       I  Created cgroup /sys/fs/cgroup/apps/uid_10233
+2026-10-20 19:27:31.105 17203-17203 libprocessgroup         com.example.practice_victorina       I  Created cgroup /sys/fs/cgroup/apps/uid_10233/pid_17203
+2026-10-20 19:27:31.189 17203-17203 Zygote                  com.example.practice_victorina       I  Process 17203 created for com.example.practice_victorina
+2026-10-20 19:27:31.189 17203-17203 ctice_victorina         com.example.practice_victorina       I  Late-enabling -Xcheck:jni
+2026-10-20 19:27:31.535 17203-17203 ctice_victorina         com.example.practice_victorina       I  Using generational CollectorTypeCMC GC.
+2026-10-20 19:27:31.542 17203-17203 ctice_victorina         com.example.practice_victorina       W  Unexpected CPU variant for x86: x86_64.
+                                                                                                    Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, goldmont-without-sha-xsaves, tremont, kabylake, alderlake, pantherlake, default
+2026-10-20 19:27:31.824 17203-17203 nativeloader            com.example.practice_victorina       D  Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+2026-10-20 19:27:32.155 17203-17203 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 333566037; UID 10233; state: ENABLED
+2026-10-20 19:27:32.498 17203-17203 nativeloader            com.example.practice_victorina       D  Configuring clns-9 for other apk /data/app/~~tIFiB8_zLjwusHtCdkmFRQ==/com.example.practice_victorina-nc6725ys7lSiZPxTniSuyw==/base.apk. target_sdk_version=37, uses_libraries=, library_path=/data/app/~~tIFiB8_zLjwusHtCdkmFRQ==/com.example.practice_victorina-nc6725ys7lSiZPxTniSuyw==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.practice_victorina
+2026-10-20 19:27:32.521 17203-17203 ActivityThread          com.example.practice_victorina       D  Set OS env TMPDIR to /data/user/0/com.example.practice_victorina/cache
+2026-10-20 19:27:32.527 17203-17203 GraphicsEnvironment     com.example.practice_victorina       V  Currently set values for:
+2026-10-20 19:27:32.527 17203-17203 GraphicsEnvironment     com.example.practice_victorina       V    angle_gl_driver_selection_pkgs=[]
+2026-10-20 19:27:32.527 17203-17203 GraphicsEnvironment     com.example.practice_victorina       V    angle_gl_driver_selection_values=[]
+2026-10-20 19:27:32.527 17203-17203 GraphicsEnvironment     com.example.practice_victorina       V  com.example.practice_victorina is not listed in per-application setting
+2026-10-20 19:27:32.529 17203-17203 GraphicsEnvironment     com.example.practice_victorina       V  No special selections for ANGLE, returning default driver choice
+2026-10-20 19:27:32.531 17203-17203 GraphicsEnvironment     com.example.practice_victorina       V  Neither updatable production driver nor prerelease driver is supported.
+2026-10-20 19:27:32.542 17203-17203 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 407952621; UID 10233; state: ENABLED
+2026-10-20 19:27:32.543 17203-17203 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 419020719; UID 10233; state: ENABLED
+2026-10-20 19:27:32.644 17203-17249 DisplayManager          com.example.practice_victorina       I  Choreographer implicitly registered for the refresh rate.
+2026-10-20 19:27:32.664 17203-17203 ProtoLog                com.example.practice_victorina       I  ProtoLog ready to log to logcat
+2026-10-20 19:27:32.666 17203-17203 ctice_victorina         com.example.practice_victorina       D  Initializing ProtoLog
+2026-10-20 19:27:32.667 17203-17203 ProtoLog                com.example.practice_victorina       D  Initializing ProtoLog DataSource
+2026-10-20 19:27:32.677 17203-17203 ProtoLogConfigListener  com.example.practice_victorina       I  Connected and registered client with 1 groups to ProtoLogConfigurationService (viewerConfig=null)
+2026-10-20 19:27:32.818 17203-17203 AppCompatDelegate       com.example.practice_victorina       D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2026-10-20 19:27:32.946 17203-17249 GFXSTREAM               com.example.practice_victorina       I  [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+2026-10-20 19:27:32.947 17203-17249 GFXSTREAM               com.example.practice_victorina       I  [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+2026-10-20 19:27:32.951 17203-17249 libc                    com.example.practice_victorina       W  Access denied finding property "vendor.mesa.virtgpu.kumquat"
+2026-10-20 19:27:33.036 17203-17249 HWUI                    com.example.practice_victorina       W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2026-10-20 19:27:33.036 17203-17249 HWUI                    com.example.practice_victorina       W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2026-10-20 19:27:33.276 17203-17203 ctice_victorina         com.example.practice_victorina       I  hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app, TargetSdkVersion=37) using reflection: allowed
+2026-10-20 19:27:33.613 17203-17203 MainActivity            com.example.practice_victorina       D  onCreate: Экран 'MainActivity' создан
+2026-10-20 19:27:33.616 17203-17203 MainActivity            com.example.practice_victorina       D  Спиннер выбора тем успешно инициализирован (3 тем)
+2026-10-20 19:27:33.634 17203-17203 MainActivity            com.example.practice_victorina       D  onStart: MainActivity становится видимым
+2026-10-20 19:27:33.642 17203-17203 MainActivity            com.example.practice_victorina       D  onResume: MainActivity на переднем плане и готово к взаимодействию
+2026-10-20 19:27:33.664 17203-17203 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 418924588; UID 10233; state: ENABLED
+2026-10-20 19:27:33.686 17203-17203 HWUI                    com.example.practice_victorina       W  Unknown dataspace 0
+2026-10-20 19:27:33.755 17203-17203 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@2c6975c
+2026-10-20 19:27:33.820 17203-17272 libc                    com.example.practice_victorina       W  Access denied finding property "vendor.mesa.virtgpu.kumquat"
+2026-10-20 19:27:33.821 17203-17274 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 458413887; UID 10233; state: ENABLED
+2026-10-20 19:27:33.822 17203-17274 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@2c6975c
+2026-10-20 19:27:33.834 17203-17203 VRI[MainActivity]       com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:27:33.869 17203-17203 HWUI                    com.example.practice_victorina       I  Using FreeType backend (prop=Auto)
+2026-10-20 19:27:34.034 17203-17203 Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-17203-0 with slotExpansion=1 for 64 slots
+2026-10-20 19:27:34.038 17203-17203 Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[MainActivity]#0(BLAST Consumer)0 with slotExpansion=1 for 64 slots
+2026-10-20 19:27:35.204 17203-17203 InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 19:27:35.384 17203-17203 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:c0f874b3: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:27:38.073 17203-17203 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.widget.PopupWindow$PopupDecorView$$ExternalSyntheticLambda1@545a631
+2026-10-20 19:27:38.073 17203-17274 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.widget.PopupWindow$PopupDecorView$$ExternalSyntheticLambda1@545a631
+2026-10-20 19:27:38.075 17203-17203 Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-17203-1 with slotExpansion=1 for 64 slots
+2026-10-20 19:27:38.076 17203-17203 Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[PopupWindow:89e083e]#1(BLAST Consumer)1 with slotExpansion=1 for 64 slots
+2026-10-20 19:27:38.114 17203-17368 ProfileInstaller        com.example.practice_victorina       D  Installing profile for com.example.practice_victorina
+2026-10-20 19:27:38.500 17203-17220 ctice_victorina         com.example.practice_victorina       I  Compiler allocated 4522KB to compile void android.view.ViewRootImpl.performTraversals(long)
+2026-10-20 19:27:38.715 17203-17203 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 19:27:38.723 17203-17274 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: null
+2026-10-20 19:27:38.924 17203-17203 InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 19:27:38.924 17203-17203 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:60345d30: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:27:41.118 17203-17203 AutofillManager         com.example.practice_victorina       I  showAutofillDialog() return false due to improve fill dialog
+2026-10-20 19:27:41.120 17203-17203 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:c751aac8: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true userId 0 displayId 0
+2026-10-20 19:27:41.125 17203-17203 InsetsController        com.example.practice_victorina       D  show(ime())
+2026-10-20 19:27:41.125 17203-17203 InsetsController        com.example.practice_victorina       D  Setting requestedVisibleTypes to 511 (was 503)
+2026-10-20 19:27:41.157 17203-17203 AssistStructure         com.example.practice_victorina       I  Flattened final assist data: 3408 bytes, containing 1 windows, 13 views
+2026-10-20 19:27:43.895 17203-17203 InteractionJankMonitor  com.example.practice_victorina       W  Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.example.practice_victorina
+2026-10-20 19:27:44.104 17203-17203 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:c751aac8: onShown
+2026-10-20 19:27:45.618 17203-17203 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 417951523; UID 10233; state: ENABLED
+2026-10-20 19:27:48.232 17203-17203 RemoteInpu...ectionImpl com.example.practice_victorina       W  requestCursorUpdates on inactive InputConnection
+2026-10-20 19:27:49.661 17203-17203 MainActivity            com.example.practice_victorina       I  Пользователь 'Denis' начинает викторину: 'Основы Kotlin & Android' (файл: kotlin_android.json)
+2026-10-20 19:27:49.681 17203-17203 MainActivity            com.example.practice_victorina       D  onPause: MainActivity теряет фокус
+2026-10-20 19:27:49.716 17203-17203 QuizActivity            com.example.practice_victorina       D  onCreate: Экран 'QuizActivity' создан
+2026-10-20 19:27:49.716 17203-17203 QuizActivity            com.example.practice_victorina       I  Параметры получены через Intent: игрок='Denis', тема='Основы Kotlin & Android', файл='kotlin_android.json'
+2026-10-20 19:27:49.717 17203-17203 QuizActivity            com.example.practice_victorina       D  Загрузка вопросов викторины из JSON...
+2026-10-20 19:27:49.719 17203-17203 QuizStorage             com.example.practice_victorina       D  Попытка загрузки викторины из assets: quizzes/kotlin_android.json
+2026-10-20 19:27:49.725 17203-17203 QuizStorage             com.example.practice_victorina       I  Викторина 'Основы Kotlin & Android' успешно загружена. Количество вопросов: 5
+2026-10-20 19:27:49.725 17203-17203 QuizActivity            com.example.practice_victorina       I  Успешно загружено 5 вопросов для темы 'Основы Kotlin & Android'
+2026-10-20 19:27:49.726 17203-17203 QuizActivity            com.example.practice_victorina       D  Отображение вопроса #1: Какой метод вызывается первым при создании жизненного цикла Activity?
+2026-10-20 19:27:49.729 17203-17203 QuizActivity            com.example.practice_victorina       D  onStart: QuizActivity становится видимым
+2026-10-20 19:27:49.730 17203-17203 QuizActivity            com.example.practice_victorina       D  onResume: QuizActivity на переднем плане
+2026-10-20 19:27:49.746 17203-17203 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@a62dce7
+2026-10-20 19:27:49.748 17203-17203 VRI[QuizActivity]       com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:27:49.749 17203-17274 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@a62dce7
+2026-10-20 19:27:49.765 17203-17203 Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-17203-2 with slotExpansion=1 for 64 slots
+2026-10-20 19:27:49.766 17203-17203 Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[QuizActivity]#2(BLAST Consumer)2 with slotExpansion=1 for 64 slots
+2026-10-20 19:27:49.767 17203-17221 ctice_victorina         com.example.practice_victorina       I  Background concurrent mark compact GC freed 2423KB AllocSpace bytes, 2(64KB) LOS objects, 49% free, 3889KB/7778KB, paused 2.068ms,7.603ms total 44.649ms
+2026-10-20 19:27:49.893 17203-17249 BLASTBufferQueue        com.example.practice_victorina       W  Attempting to clear sync transaction when none are active
+2026-10-20 19:27:49.936 17203-17203 ImeTracker              com.example.practice_victorina       I  system_server:a07d6652: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2026-10-20 19:27:49.990 17203-17203 InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 19:27:49.991 17203-17203 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:fb0e0efc: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:27:50.018 17203-17203 ImeTracker              com.example.practice_victorina       I  system_server:df703a96: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2026-10-20 19:27:50.371 17203-17203 VRI[MainActivity]       com.example.practice_victorina       D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 19:27:50.386 17203-17203 AutofillManager         com.example.practice_victorina       I  onInvisibleForAutofill(): expiringResponse
+2026-10-20 19:27:50.386 17203-17203 MainActivity            com.example.practice_victorina       D  onStop: MainActivity больше не видно
+2026-10-20 19:27:57.788 17203-17203 QuizActivity            com.example.practice_victorina       I  Игрок выбрал вариант ответа #0: 'onStart()'
+2026-10-20 19:27:58.497 17203-17203 QuizActivity            com.example.practice_victorina       I  Ответ неверный. Выбран: 0, правильный: 1
+2026-10-20 19:28:00.646 17203-17203 QuizActivity            com.example.practice_victorina       D  Отображение вопроса #2: Какое ключевое слово в языке Kotlin объявляет неизменяемую (read-only) переменную?
+2026-10-20 19:28:09.342 17203-17203 QuizActivity            com.example.practice_victorina       I  Игрок выбрал вариант ответа #2: 'val'
+2026-10-20 19:28:09.803 17203-17203 QuizActivity            com.example.practice_victorina       I  Ответ верный! Текущий счет: 1/5
+2026-10-20 19:28:10.366 17203-17203 QuizActivity            com.example.practice_victorina       D  Отображение вопроса #3: Какой компонент Android используется для перехода между Activity с передачей данных?
+2026-10-20 19:28:16.744 17203-17203 QuizActivity            com.example.practice_victorina       I  Игрок выбрал вариант ответа #0: 'Intent'
+2026-10-20 19:28:17.332 17203-17203 QuizActivity            com.example.practice_victorina       I  Ответ верный! Текущий счет: 2/5
+2026-10-20 19:28:17.798 17203-17203 QuizActivity            com.example.practice_victorina       D  Отображение вопроса #4: Какой минимальный уровень API соответствует версии Android 8.0 Oreo?
+2026-10-20 19:28:21.177 17203-17203 QuizActivity            com.example.practice_victorina       I  Игрок выбрал вариант ответа #2: 'API 26'
+2026-10-20 19:28:21.614 17203-17203 QuizActivity            com.example.practice_victorina       I  Ответ верный! Текущий счет: 3/5
+2026-10-20 19:28:22.046 17203-17203 QuizActivity            com.example.practice_victorina       D  Отображение вопроса #5: Какой уровень логирования Logcat предназначен для вывода отладочных данных разработчика?
+2026-10-20 19:28:26.862 17203-17203 QuizActivity            com.example.practice_victorina       I  Игрок выбрал вариант ответа #0: 'Log.d() (Debug)'
+2026-10-20 19:28:27.814 17203-17203 QuizActivity            com.example.practice_victorina       I  Ответ верный! Текущий счет: 4/5
+2026-10-20 19:28:28.380 17203-17203 QuizActivity            com.example.practice_victorina       I  Викторина завершена. Итоговый счет игрока 'Denis': 4 из 5
+2026-10-20 19:28:28.426 17203-17203 QuizActivity            com.example.practice_victorina       D  onPause: QuizActivity теряет фокус
+2026-10-20 19:28:28.450 17203-17203 ResultActivity          com.example.practice_victorina       D  onCreate: Экран 'ResultActivity' создан
+2026-10-20 19:28:28.450 17203-17203 ResultActivity          com.example.practice_victorina       I  Получены результаты игры: игрок='Denis', тема='Основы Kotlin & Android', верных=4/5
+2026-10-20 19:28:28.451 17203-17203 ResultActivity          com.example.practice_victorina       D  Отображен результат: 4/5 (80%), вердикт: 'Отличная работа! Высокий уровень знаний!'
+2026-10-20 19:28:28.465 17203-17203 QuizStorage             com.example.practice_victorina       D  Сохранение результата игрока Denis (4/5)
+2026-10-20 19:28:28.468 17203-17203 QuizStorage             com.example.practice_victorina       I  Результат успешно записан в файл quiz_results.json. Всего записей: 1
+2026-10-20 19:28:28.468 17203-17203 ResultActivity          com.example.practice_victorina       I  Текущий результат успешно сохранен в JSON
+2026-10-20 19:28:28.468 17203-17203 QuizStorage             com.example.practice_victorina       D  Загружено 1 сохраненных результатов из quiz_results.json
+2026-10-20 19:28:28.480 17203-17203 ResultActivity          com.example.practice_victorina       D  В истории выведено 1 записей
+2026-10-20 19:28:28.482 17203-17203 ResultActivity          com.example.practice_victorina       D  onStart: ResultActivity становится видимым
+2026-10-20 19:28:28.484 17203-17203 ResultActivity          com.example.practice_victorina       D  onResume: ResultActivity на переднем плане
+2026-10-20 19:28:28.490 17203-17203 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@c0bbf77
+2026-10-20 19:28:28.490 17203-17274 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@c0bbf77
+2026-10-20 19:28:28.490 17203-17203 VRI[ResultActivity]     com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:28:28.494 17203-17203 Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-17203-3 with slotExpansion=1 for 64 slots
+2026-10-20 19:28:28.495 17203-17203 Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[ResultActivity]#3(BLAST Consumer)3 with slotExpansion=1 for 64 slots
+2026-10-20 19:28:28.653 17203-17203 InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 19:28:28.653 17203-17203 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:b75de10b: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:28:29.032 17203-17203 VRI[QuizActivity]       com.example.practice_victorina       D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 19:28:29.061 17203-17203 QuizActivity            com.example.practice_victorina       D  onStop: QuizActivity больше не видно
+2026-10-20 19:28:29.062 17203-17203 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 19:28:29.063 17203-17203 QuizActivity            com.example.practice_victorina       D  onDestroy: QuizActivity уничтожается
+2026-10-20 19:28:29.064 17203-17203 ViewRootImpl            com.example.practice_victorina       D  Skipping stats log for color mode
+2026-10-20 19:28:31.961 17203-17203 ResultActivity          com.example.practice_victorina       I  Пользователь нажал 'В главное меню'. Завершение ResultActivity
+2026-10-20 19:28:31.986 17203-17203 ResultActivity          com.example.practice_victorina       D  onPause: ResultActivity теряет фокус
+2026-10-20 19:28:31.992 17203-17203 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 19:28:31.992 17203-17203 MainActivity            com.example.practice_victorina       D  onDestroy: MainActivity уничтожается
+2026-10-20 19:28:31.993 17203-17203 ViewRootImpl            com.example.practice_victorina       D  Skipping stats log for color mode
+2026-10-20 19:28:32.017 17203-17203 MainActivity            com.example.practice_victorina       D  onCreate: Экран 'MainActivity' создан
+2026-10-20 19:28:32.017 17203-17203 MainActivity            com.example.practice_victorina       D  Спиннер выбора тем успешно инициализирован (3 тем)
+2026-10-20 19:28:32.019 17203-17203 MainActivity            com.example.practice_victorina       D  onStart: MainActivity становится видимым
+2026-10-20 19:28:32.020 17203-17203 MainActivity            com.example.practice_victorina       D  onResume: MainActivity на переднем плане и готово к взаимодействию
+2026-10-20 19:28:32.028 17203-17203 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@9647c3b
+2026-10-20 19:28:32.029 17203-17274 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@9647c3b
+2026-10-20 19:28:32.030 17203-17203 VRI[MainActivity]       com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:28:32.037 17203-17203 Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-17203-4 with slotExpansion=1 for 64 slots
+2026-10-20 19:28:32.038 17203-17203 Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[MainActivity]#4(BLAST Consumer)4 with slotExpansion=1 for 64 slots
+2026-10-20 19:28:32.290 17203-17203 InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 19:28:32.291 17203-17203 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:386990a5: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:28:32.568 17203-17203 VRI[ResultActivity]     com.example.practice_victorina       D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 19:28:32.584 17203-17203 ResultActivity          com.example.practice_victorina       D  onStop: ResultActivity больше не видно
+2026-10-20 19:28:32.584 17203-17203 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 19:28:32.585 17203-17274 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: null
+2026-10-20 19:28:32.585 17203-17203 ResultActivity          com.example.practice_victorina       D  onDestroy: ResultActivity уничтожается
+2026-10-20 19:28:32.586 17203-17203 ViewRootImpl            com.example.practice_victorina       D  Skipping stats log for color mode
+2026-10-20 19:44:02.813   682-845   InputDispatcher         system_server                        E  channel 'd66dcf5 com.example.practice_victorina/com.example.practice_victorina.MainActivity' ~ Channel is unrecoverably broken and will be disposed!
+2026-10-20 19:44:03.354   682-1248  WindowOrga...Controller system_server                        E  Attempting to externally change a non-organized container: Task{69b825b #14 type=standard A=10233:com.example.practice_victorina}={handlePackageUpdate:false,} playercount=2 taskorg=android.window.ITaskOrganizer$Stub$Proxy@1eb7eb2
+2026-10-20 19:54:42.836   682-750   PackageManager          system_server                        E  Error occurred while checking alignment of package : com.example.practice_victorina
+2026-10-20 19:54:43.710  1594-1594  libprocessgroup         com.example.practice_victorina       I  Created cgroup /sys/fs/cgroup/apps/uid_10233/pid_1594
+2026-10-20 19:54:43.729  1594-1594  Zygote                  com.example.practice_victorina       I  Process 1594 created for com.example.practice_victorina
+2026-10-20 19:54:43.730  1594-1594  ctice_victorina         com.example.practice_victorina       I  Late-enabling -Xcheck:jni
+2026-10-20 19:54:44.050  1594-1594  ctice_victorina         com.example.practice_victorina       I  Using generational CollectorTypeCMC GC.
+2026-10-20 19:54:44.051  1594-1594  ctice_victorina         com.example.practice_victorina       W  Unexpected CPU variant for x86: x86_64.
+                                                                                                    Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, goldmont-without-sha-xsaves, tremont, kabylake, alderlake, pantherlake, default
+2026-10-20 19:54:44.088  1594-1594  nativeloader            com.example.practice_victorina       D  Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+2026-10-20 19:54:44.235  1594-1594  CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 333566037; UID 10233; state: ENABLED
+2026-10-20 19:54:44.436  1594-1594  nativeloader            com.example.practice_victorina       D  Configuring clns-9 for other apk /data/app/~~B34SCJwUGW-pkZsd43Fj8A==/com.example.practice_victorina-55rD6ZkxcjQFC8K9KAVlRg==/base.apk. target_sdk_version=37, uses_libraries=, library_path=/data/app/~~B34SCJwUGW-pkZsd43Fj8A==/com.example.practice_victorina-55rD6ZkxcjQFC8K9KAVlRg==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.practice_victorina
+2026-10-20 19:54:44.457  1594-1594  ActivityThread          com.example.practice_victorina       D  Set OS env TMPDIR to /data/user/0/com.example.practice_victorina/cache
+2026-10-20 19:54:44.474  1594-1594  GraphicsEnvironment     com.example.practice_victorina       V  Currently set values for:
+2026-10-20 19:54:44.474  1594-1594  GraphicsEnvironment     com.example.practice_victorina       V    angle_gl_driver_selection_pkgs=[]
+2026-10-20 19:54:44.474  1594-1594  GraphicsEnvironment     com.example.practice_victorina       V    angle_gl_driver_selection_values=[]
+2026-10-20 19:54:44.474  1594-1594  GraphicsEnvironment     com.example.practice_victorina       V  com.example.practice_victorina is not listed in per-application setting
+2026-10-20 19:54:44.475  1594-1594  GraphicsEnvironment     com.example.practice_victorina       V  No special selections for ANGLE, returning default driver choice
+2026-10-20 19:54:44.476  1594-1594  GraphicsEnvironment     com.example.practice_victorina       V  Neither updatable production driver nor prerelease driver is supported.
+2026-10-20 19:54:44.491  1594-1594  CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 407952621; UID 10233; state: ENABLED
+2026-10-20 19:54:44.492  1594-1594  CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 419020719; UID 10233; state: ENABLED
+2026-10-20 19:54:44.577  1594-1687  DisplayManager          com.example.practice_victorina       I  Choreographer implicitly registered for the refresh rate.
+2026-10-20 19:54:44.582  1594-1594  ProtoLog                com.example.practice_victorina       I  ProtoLog ready to log to logcat
+2026-10-20 19:54:44.583  1594-1594  ctice_victorina         com.example.practice_victorina       D  Initializing ProtoLog
+2026-10-20 19:54:44.583  1594-1594  ProtoLog                com.example.practice_victorina       D  Initializing ProtoLog DataSource
+2026-10-20 19:54:44.590  1594-1594  ProtoLogConfigListener  com.example.practice_victorina       I  Connected and registered client with 1 groups to ProtoLogConfigurationService (viewerConfig=null)
+2026-10-20 19:54:44.678  1594-1687  GFXSTREAM               com.example.practice_victorina       I  [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+2026-10-20 19:54:44.679  1594-1687  GFXSTREAM               com.example.practice_victorina       I  [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+2026-10-20 19:54:44.685  1594-1687  libc                    com.example.practice_victorina       W  Access denied finding property "vendor.mesa.virtgpu.kumquat"
+2026-10-20 19:54:44.691  1594-1687  HWUI                    com.example.practice_victorina       W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2026-10-20 19:54:44.692  1594-1687  HWUI                    com.example.practice_victorina       W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2026-10-20 19:54:44.697  1594-1594  AppCompatDelegate       com.example.practice_victorina       D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2026-10-20 19:54:44.923  1594-1594  ctice_victorina         com.example.practice_victorina       I  hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app, TargetSdkVersion=37) using reflection: allowed
+2026-10-20 19:54:45.061  1594-1594  MainActivity            com.example.practice_victorina       D  onCreate: экран создан
+2026-10-20 19:54:45.072  1594-1594  MainActivity            com.example.practice_victorina       D  onStart
+2026-10-20 19:54:45.074  1594-1594  MainActivity            com.example.practice_victorina       D  onResume
+2026-10-20 19:54:45.088  1594-1594  CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 418924588; UID 10233; state: ENABLED
+2026-10-20 19:54:45.093  1594-1594  HWUI                    com.example.practice_victorina       W  Unknown dataspace 0
+2026-10-20 19:54:45.123  1594-1747  libc                    com.example.practice_victorina       W  Access denied finding property "vendor.mesa.virtgpu.kumquat"
+2026-10-20 19:54:45.141  1594-1594  WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@770722e
+2026-10-20 19:54:45.148  1594-1749  CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 458413887; UID 10233; state: ENABLED
+2026-10-20 19:54:45.149  1594-1749  WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@770722e
+2026-10-20 19:54:45.150  1594-1594  VRI[MainActivity]       com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:54:45.177  1594-1594  HWUI                    com.example.practice_victorina       I  Using FreeType backend (prop=Auto)
+2026-10-20 19:54:45.204  1594-1594  Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-1594-0 with slotExpansion=1 for 64 slots
+2026-10-20 19:54:45.205  1594-1594  Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[MainActivity]#0(BLAST Consumer)0 with slotExpansion=1 for 64 slots
+2026-10-20 19:54:45.456  1594-1594  InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 19:54:45.458  1594-1594  ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:bf0a223f: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:54:46.493  1594-1630  ctice_victorina         com.example.practice_victorina       I  Compiler allocated 4522KB to compile void android.view.ViewRootImpl.performTraversals(long)
+2026-10-20 19:54:47.362  1594-1594  WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.widget.PopupWindow$PopupDecorView$$ExternalSyntheticLambda1@cf28bcb
+2026-10-20 19:54:47.362  1594-1749  WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.widget.PopupWindow$PopupDecorView$$ExternalSyntheticLambda1@cf28bcb
+2026-10-20 19:54:47.363  1594-1594  Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-1594-1 with slotExpansion=1 for 64 slots
+2026-10-20 19:54:47.364  1594-1594  Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[PopupWindow:f6963af]#1(BLAST Consumer)1 with slotExpansion=1 for 64 slots
+2026-10-20 19:54:47.421  1594-1687  BLASTBufferQueue        com.example.practice_victorina       W  Attempting to clear sync transaction when none are active
+2026-10-20 19:54:48.371  1594-1594  WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 19:54:48.372  1594-1749  WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: null
+2026-10-20 19:54:48.449  1594-1594  InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 19:54:48.450  1594-1594  ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:392e097d: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:54:48.700  1594-1687  HWUI                    com.example.practice_victorina       D  endAllActiveAnimators on 0x78741fe4af60 (DropDownListView) with handle 0x78738fe468f0
+2026-10-20 19:54:49.906  1594-1865  ProfileInstaller        com.example.practice_victorina       D  Installing profile for com.example.practice_victorina
+2026-10-20 19:54:50.031  1594-1594  MainActivity            com.example.practice_victorina       I  Поле ввода имени очищено
+2026-10-20 19:54:51.103  1594-1594  AutofillManager         com.example.practice_victorina       I  showAutofillDialog() return false due to improve fill dialog
+2026-10-20 19:54:51.105  1594-1594  ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:28c28b1e: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true userId 0 displayId 0
+2026-10-20 19:54:51.106  1594-1594  InsetsController        com.example.practice_victorina       D  show(ime())
+2026-10-20 19:54:51.107  1594-1594  InsetsController        com.example.practice_victorina       D  Setting requestedVisibleTypes to 511 (was 503)
+2026-10-20 19:54:51.121  1594-1594  AssistStructure         com.example.practice_victorina       I  Flattened final assist data: 3076 bytes, containing 1 windows, 12 views
+2026-10-20 19:54:51.549  1594-1594  InteractionJankMonitor  com.example.practice_victorina       W  Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.example.practice_victorina
+2026-10-20 19:54:51.750  1594-1594  ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:28c28b1e: onShown
+2026-10-20 19:54:56.041  1594-1594  CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 417951523; UID 10233; state: ENABLED
+2026-10-20 19:55:03.713  1594-1594  MainActivity            com.example.practice_victorina       I  Старт викторины: игрок 'Denis', тема 'Фильм: Интерстеллар (8 вопросов)'
+2026-10-20 19:55:03.744  1594-1594  MainActivity            com.example.practice_victorina       D  onPause
+2026-10-20 19:55:03.801  1594-1594  QuizActivity            com.example.practice_victorina       D  onCreate: экран создан
+2026-10-20 19:55:03.801  1594-1594  QuizActivity            com.example.practice_victorina       I  Запуск викторины для игрока 'Denis' по теме 'Фильм: Интерстеллар (8 вопросов)'
+2026-10-20 19:55:03.811  1594-1594  QuizActivity            com.example.practice_victorina       D  Загружено вопросов: 8
+2026-10-20 19:55:03.817  1594-1594  QuizActivity            com.example.practice_victorina       D  onStart
+2026-10-20 19:55:03.819  1594-1594  QuizActivity            com.example.practice_victorina       D  onResume
+2026-10-20 19:55:03.836  1594-1594  WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@de7a39
+2026-10-20 19:55:03.836  1594-1749  WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@de7a39
+2026-10-20 19:55:03.837  1594-1594  VRI[QuizActivity]       com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:55:03.853  1594-1594  Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-1594-2 with slotExpansion=1 for 64 slots
+2026-10-20 19:55:03.854  1594-1594  Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[QuizActivity]#2(BLAST Consumer)2 with slotExpansion=1 for 64 slots
+2026-10-20 19:55:03.999  1594-1687  BLASTBufferQueue        com.example.practice_victorina       W  Attempting to clear sync transaction when none are active
+2026-10-20 19:55:04.003  1594-1594  ImeTracker              com.example.practice_victorina       I  system_server:4eba4bed: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2026-10-20 19:55:04.078  1594-1594  InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 19:55:04.078  1594-1594  ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:94e6e785: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:55:04.124  1594-1594  ImeTracker              com.example.practice_victorina       I  system_server:65eb3876: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2026-10-20 19:55:04.152  1594-1594  RemoteInpu...ectionImpl com.example.practice_victorina       W  requestCursorUpdates on inactive InputConnection
+2026-10-20 19:55:04.454  1594-1594  VRI[MainActivity]       com.example.practice_victorina       D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 19:55:04.481  1594-1594  AutofillManager         com.example.practice_victorina       I  onInvisibleForAutofill(): expiringResponse
+2026-10-20 19:55:04.483  1594-1594  MainActivity            com.example.practice_victorina       D  onStop
+2026-10-20 19:55:11.550  1594-1594  QuizActivity            com.example.practice_victorina       I  Вопрос #1: выбран вариант #1 (верно: true)
+2026-10-20 19:55:16.735  1594-1594  QuizActivity            com.example.practice_victorina       I  Вопрос #2: выбран вариант #0 (верно: true)
+2026-10-20 19:55:18.998  1594-1594  QuizActivity            com.example.practice_victorina       I  Вопрос #3: выбран вариант #3 (верно: false)
+2026-10-20 19:55:23.215  1594-1594  QuizActivity            com.example.practice_victorina       I  Вопрос #4: выбран вариант #2 (верно: true)
+2026-10-20 19:55:23.997  1594-1594  QuizActivity            com.example.practice_victorina       I  Вопрос #5: выбран вариант #2 (верно: false)
+2026-10-20 19:55:24.880  1594-1594  QuizActivity            com.example.practice_victorina       I  Вопрос #6: выбран вариант #3 (верно: false)
+2026-10-20 19:55:25.730  1594-1594  QuizActivity            com.example.practice_victorina       I  Вопрос #7: выбран вариант #2 (верно: false)
+2026-10-20 19:55:26.497  1594-1594  QuizActivity            com.example.practice_victorina       I  Вопрос #8: выбран вариант #2 (верно: false)
+2026-10-20 19:55:26.613  1594-1594  QuizActivity            com.example.practice_victorina       I  Викторина завершена: результат 3 из 8
+2026-10-20 19:55:26.634  1594-1594  QuizActivity            com.example.practice_victorina       D  onPause
+2026-10-20 19:55:26.659  1594-1594  ResultActivity          com.example.practice_victorina       D  onCreate: экран создан
+2026-10-20 19:55:26.659  1594-1594  ResultActivity          com.example.practice_victorina       I  Результаты игры: игрок='Denis', тема='Фильм: Интерстеллар (8 вопросов)', верных=3/8
+2026-10-20 19:55:26.665  1594-1594  ResultActivity          com.example.practice_victorina       D  onStart
+2026-10-20 19:55:26.667  1594-1594  ResultActivity          com.example.practice_victorina       D  onResume
+2026-10-20 19:55:26.685  1594-1594  WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@f8276d9
+2026-10-20 19:55:26.686  1594-1594  VRI[ResultActivity]     com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:55:26.688  1594-1749  WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@f8276d9
+2026-10-20 19:55:26.693  1594-1594  Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-1594-3 with slotExpansion=1 for 64 slots
+2026-10-20 19:55:26.695  1594-1594  Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[ResultActivity]#3(BLAST Consumer)3 with slotExpansion=1 for 64 slots
+2026-10-20 19:55:26.889  1594-1594  InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 19:55:26.890  1594-1594  ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:8476cbb6: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:55:27.268  1594-1594  VRI[QuizActivity]       com.example.practice_victorina       D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 19:55:27.306  1594-1594  QuizActivity            com.example.practice_victorina       D  onStop
+2026-10-20 19:55:27.308  1594-1594  WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 19:55:27.309  1594-1749  WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: null
+2026-10-20 19:55:27.310  1594-1594  QuizActivity            com.example.practice_victorina       D  onDestroy
+2026-10-20 19:55:27.312  1594-1594  ViewRootImpl            com.example.practice_victorina       D  Skipping stats log for color mode
+2026-10-20 19:55:38.320  1594-1594  ResultActivity          com.example.practice_victorina       I  Нажата кнопка 'В главное меню'
+2026-10-20 19:55:38.361  1594-1594  ResultActivity          com.example.practice_victorina       D  onPause
+2026-10-20 19:55:38.369  1594-1594  WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 19:55:38.370  1594-1594  MainActivity            com.example.practice_victorina       D  onDestroy
+2026-10-20 19:55:38.371  1594-1594  ViewRootImpl            com.example.practice_victorina       D  Skipping stats log for color mode
+2026-10-20 19:55:38.400  1594-1594  MainActivity            com.example.practice_victorina       D  onCreate: экран создан
+2026-10-20 19:55:38.402  1594-1594  MainActivity            com.example.practice_victorina       D  onStart
+2026-10-20 19:55:38.404  1594-1594  MainActivity            com.example.practice_victorina       D  onResume
+2026-10-20 19:55:38.422  1594-1594  WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@6296027
+2026-10-20 19:55:38.423  1594-1594  VRI[MainActivity]       com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:55:38.429  1594-1749  WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@6296027
+2026-10-20 19:55:38.431  1594-1594  Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-1594-4 with slotExpansion=1 for 64 slots
+2026-10-20 19:55:38.432  1594-1594  Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[MainActivity]#4(BLAST Consumer)4 with slotExpansion=1 for 64 slots
+2026-10-20 19:55:38.589  1594-1594  InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 19:55:38.590  1594-1594  ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:c08e6ff1: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:55:38.953  1594-1594  VRI[ResultActivity]     com.example.practice_victorina       D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 19:55:38.969  1594-1594  ResultActivity          com.example.practice_victorina       D  onStop
+2026-10-20 19:55:38.970  1594-1594  WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 19:55:38.970  1594-1594  ResultActivity          com.example.practice_victorina       D  onDestroy
+2026-10-20 19:55:38.970  1594-1749  WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: null
+2026-10-20 19:55:38.972  1594-1594  ViewRootImpl            com.example.practice_victorina       D  Skipping stats log for color mode
+2026-10-20 19:56:21.488   682-845   InputDispatcher         system_server                        E  channel '5daef04 com.example.practice_victorina/com.example.practice_victorina.MainActivity' ~ Channel is unrecoverably broken and will be disposed!
+2026-10-20 19:56:21.993   682-2463  WindowOrga...Controller system_server                        E  Attempting to externally change a non-organized container: Task{6f42e02 #15 type=standard A=10233:com.example.practice_victorina}={handlePackageUpdate:false,} playercount=2 taskorg=android.window.ITaskOrganizer$Stub$Proxy@1eb7eb2
+---------------------------- PROCESS STARTED (18096) for package com.example.practice_victorina ----------------------------
+2026-10-20 20:22:15.866 18096-18096 nativeloader            com.example.practice_victorina       D  Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+2026-10-20 20:22:16.090 18096-18096 nativeloader            com.example.practice_victorina       D  Load /data/user/0/com.example.practice_victorina/code_cache/startup_agents/d77b4fbe-agent.so using system ns (caller=<unknown>): ok
+2026-10-20 20:22:16.086 18096-18096 re-initialized>         com.example.practice_victorina       W  type=1400 audit(0.0:100): avc:  granted  { execute } for  path="/data/data/com.example.practice_victorina/code_cache/startup_agents/d77b4fbe-agent.so" dev="dm-6" ino=573794 scontext=u:r:untrusted_app:s0:c233,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c233,c256,c512,c768 tclass=file app=com.example.practice_victorina
+2026-10-20 20:22:16.109 18096-18096 ctice_victorina         com.example.practice_victorina       W  hiddenapi: DexFile /data/data/com.example.practice_victorina/code_cache/.studio/instruments-c3716e42.jar is in boot class path but is not in a known location
+2026-10-20 20:22:16.427 18096-18096 ctice_victorina         com.example.practice_victorina       W  Redefining intrinsic method java.lang.Thread java.lang.Thread.currentThread(). This may cause the unexpected use of the original definition of java.lang.Thread java.lang.Thread.currentThread()in methods that have already been compiled.
+2026-10-20 20:22:16.427 18096-18096 ctice_victorina         com.example.practice_victorina       W  Redefining intrinsic method boolean java.lang.Thread.interrupted(). This may cause the unexpected use of the original definition of boolean java.lang.Thread.interrupted()in methods that have already been compiled.
+2026-10-20 20:22:16.516 18096-18096 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 333566037; UID 10233; state: ENABLED
+2026-10-20 20:22:17.140 18096-18096 nativeloader            com.example.practice_victorina       D  Configuring clns-9 for other apk /data/app/~~B34SCJwUGW-pkZsd43Fj8A==/com.example.practice_victorina-55rD6ZkxcjQFC8K9KAVlRg==/base.apk. target_sdk_version=37, uses_libraries=, library_path=/data/app/~~B34SCJwUGW-pkZsd43Fj8A==/com.example.practice_victorina-55rD6ZkxcjQFC8K9KAVlRg==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.practice_victorina
+2026-10-20 20:22:17.201 18096-18096 ActivityThread          com.example.practice_victorina       D  Set OS env TMPDIR to /data/user/0/com.example.practice_victorina/cache
+2026-10-20 20:22:17.207 18096-18096 GraphicsEnvironment     com.example.practice_victorina       V  Currently set values for:
+2026-10-20 20:22:17.207 18096-18096 GraphicsEnvironment     com.example.practice_victorina       V    angle_gl_driver_selection_pkgs=[]
+2026-10-20 20:22:17.207 18096-18096 GraphicsEnvironment     com.example.practice_victorina       V    angle_gl_driver_selection_values=[]
+2026-10-20 20:22:17.207 18096-18096 GraphicsEnvironment     com.example.practice_victorina       V  com.example.practice_victorina is not listed in per-application setting
+2026-10-20 20:22:17.208 18096-18096 GraphicsEnvironment     com.example.practice_victorina       V  No special selections for ANGLE, returning default driver choice
+2026-10-20 20:22:17.210 18096-18096 GraphicsEnvironment     com.example.practice_victorina       V  Neither updatable production driver nor prerelease driver is supported.
+2026-10-20 20:22:17.220 18096-18096 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 407952621; UID 10233; state: ENABLED
+2026-10-20 20:22:17.220 18096-18096 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 419020719; UID 10233; state: ENABLED
+2026-10-20 20:22:17.314 18096-18129 DisplayManager          com.example.practice_victorina       I  Choreographer implicitly registered for the refresh rate.
+2026-10-20 20:22:17.330 18096-18096 ProtoLog                com.example.practice_victorina       I  ProtoLog ready to log to logcat
+2026-10-20 20:22:17.331 18096-18096 ctice_victorina         com.example.practice_victorina       D  Initializing ProtoLog
+2026-10-20 20:22:17.332 18096-18096 ProtoLog                com.example.practice_victorina       D  Initializing ProtoLog DataSource
+2026-10-20 20:22:17.341 18096-18096 ProtoLogConfigListener  com.example.practice_victorina       I  Connected and registered client with 1 groups to ProtoLogConfigurationService (viewerConfig=null)
+2026-10-20 20:22:17.450 18096-18096 AppCompatDelegate       com.example.practice_victorina       D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2026-10-20 20:22:17.542 18096-18129 GFXSTREAM               com.example.practice_victorina       I  [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+2026-10-20 20:22:17.544 18096-18129 GFXSTREAM               com.example.practice_victorina       I  [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+2026-10-20 20:22:17.566 18096-18129 libc                    com.example.practice_victorina       W  Access denied finding property "vendor.mesa.virtgpu.kumquat"
+2026-10-20 20:22:17.610 18096-18129 HWUI                    com.example.practice_victorina       W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2026-10-20 20:22:17.611 18096-18129 HWUI                    com.example.practice_victorina       W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2026-10-20 20:22:17.713 18096-18096 ctice_victorina         com.example.practice_victorina       I  hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app, TargetSdkVersion=37) using reflection: allowed
+2026-10-20 20:22:17.837 18096-18096 MainActivity            com.example.practice_victorina       D  onCreate: экран создан
+2026-10-20 20:22:17.883 18096-18096 MainActivity            com.example.practice_victorina       D  onStart
+2026-10-20 20:22:17.888 18096-18096 MainActivity            com.example.practice_victorina       D  onResume
+2026-10-20 20:22:17.900 18096-18096 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 418924588; UID 10233; state: ENABLED
+2026-10-20 20:22:17.909 18096-18096 HWUI                    com.example.practice_victorina       W  Unknown dataspace 0
+2026-10-20 20:22:17.949 18096-18096 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@c80bbeb
+2026-10-20 20:22:17.958 18096-18134 libc                    com.example.practice_victorina       W  Access denied finding property "vendor.mesa.virtgpu.kumquat"
+2026-10-20 20:22:17.958 18096-18136 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 458413887; UID 10233; state: ENABLED
+2026-10-20 20:22:17.959 18096-18136 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@c80bbeb
+2026-10-20 20:22:17.969 18096-18096 VRI[MainActivity]       com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 20:22:17.982 18096-18096 HWUI                    com.example.practice_victorina       I  Using FreeType backend (prop=Auto)
+2026-10-20 20:22:18.028 18096-18096 Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-18096-0 with slotExpansion=1 for 64 slots
+2026-10-20 20:22:18.030 18096-18096 Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[MainActivity]#0(BLAST Consumer)0 with slotExpansion=1 for 64 slots
+2026-10-20 20:22:18.340 18096-18096 InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 20:22:18.341 18096-18096 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:7eebb2a6: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 20:22:18.951 18096-18101 ctice_victorina         com.example.practice_victorina       I  Compiler allocated 4522KB to compile void android.view.ViewRootImpl.performTraversals(long)
+2026-10-20 20:22:20.106 18096-18096 MainActivity            com.example.practice_victorina       W  Поле имени пустое, старт отклонён
+2026-10-20 20:22:22.952 18096-18199 ProfileInstaller        com.example.practice_victorina       D  Installing profile for com.example.practice_victorina
+2026-10-20 20:22:26.146 18096-18096 MainActivity            com.example.practice_victorina       W  Поле имени пустое, старт отклонён
+2026-10-20 20:22:26.929 18096-18096 MainActivity            com.example.practice_victorina       W  Поле имени пустое, старт отклонён
+2026-10-20 20:22:27.694 18096-18096 AutofillManager         com.example.practice_victorina       I  showAutofillDialog() return false due to improve fill dialog
+2026-10-20 20:22:27.698 18096-18096 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:931ede10: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true userId 0 displayId 0
+2026-10-20 20:22:27.699 18096-18096 InsetsController        com.example.practice_victorina       D  show(ime())
+2026-10-20 20:22:27.700 18096-18096 InsetsController        com.example.practice_victorina       D  Setting requestedVisibleTypes to 511 (was 503)
+2026-10-20 20:22:27.718 18096-18096 AssistStructure         com.example.practice_victorina       I  Flattened final assist data: 3072 bytes, containing 1 windows, 12 views
+2026-10-20 20:22:27.758 18096-18102 ctice_victorina         com.example.practice_victorina       I  Background concurrent mark compact GC freed 2469KB AllocSpace bytes, 0(0B) LOS objects, 49% free, 3740KB/7480KB, paused 2.819ms,6.919ms total 49.427ms
+2026-10-20 20:22:28.515 18096-18096 InteractionJankMonitor  com.example.practice_victorina       W  Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.example.practice_victorina
+2026-10-20 20:22:28.737 18096-18096 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:931ede10: onShown
+2026-10-20 20:22:29.565 18096-18096 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 417951523; UID 10233; state: ENABLED
+2026-10-20 20:22:30.199 18096-18096 MainActivity            com.example.practice_victorina       I  Старт викторины: игрок 'D', тема 'Космос и планеты (10 вопросов)'
+2026-10-20 20:22:30.237 18096-18096 MainActivity            com.example.practice_victorina       D  onPause
+2026-10-20 20:22:30.288 18096-18096 QuizActivity            com.example.practice_victorina       D  onCreate: экран создан
+2026-10-20 20:22:30.289 18096-18096 QuizActivity            com.example.practice_victorina       I  Запуск викторины для игрока 'D' по теме 'Космос и планеты (10 вопросов)'
+2026-10-20 20:22:30.295 18096-18096 QuizActivity            com.example.practice_victorina       D  Загружено вопросов: 10
+2026-10-20 20:22:30.300 18096-18096 QuizActivity            com.example.practice_victorina       D  onStart
+2026-10-20 20:22:30.301 18096-18096 QuizActivity            com.example.practice_victorina       D  onResume
+2026-10-20 20:22:30.318 18096-18096 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@cdffeef
+2026-10-20 20:22:30.319 18096-18096 VRI[QuizActivity]       com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 20:22:30.322 18096-18136 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@cdffeef
+2026-10-20 20:22:30.330 18096-18096 Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-18096-1 with slotExpansion=1 for 64 slots
+2026-10-20 20:22:30.332 18096-18096 Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[QuizActivity]#1(BLAST Consumer)1 with slotExpansion=1 for 64 slots
+2026-10-20 20:22:30.498 18096-18096 ImeTracker              com.example.practice_victorina       I  system_server:c4c484f3: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2026-10-20 20:22:30.608 18096-18096 InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 20:22:30.609 18096-18096 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:e649199a: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 20:22:30.652 18096-18096 ImeTracker              com.example.practice_victorina       I  system_server:bfeab5fc: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2026-10-20 20:22:30.690 18096-18096 RemoteInpu...ectionImpl com.example.practice_victorina       W  requestCursorUpdates on inactive InputConnection
+2026-10-20 20:22:30.993 18096-18096 VRI[MainActivity]       com.example.practice_victorina       D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 20:22:31.017 18096-18096 AutofillManager         com.example.practice_victorina       I  onInvisibleForAutofill(): expiringResponse
+2026-10-20 20:22:31.018 18096-18096 MainActivity            com.example.practice_victorina       D  onStop
+2026-10-20 20:22:31.847 18096-18096 QuizActivity            com.example.practice_victorina       I  Вопрос #1: выбран вариант #1 (верно: false)
+2026-10-20 20:22:33.696 18096-18096 QuizActivity            com.example.practice_victorina       I  Вопрос #2: выбран вариант #3 (верно: false)
+2026-10-20 20:22:34.597 18096-18096 QuizActivity            com.example.practice_victorina       I  Вопрос #3: выбран вариант #2 (верно: true)
+2026-10-20 20:22:35.515 18096-18096 QuizActivity            com.example.practice_victorina       I  Вопрос #4: выбран вариант #2 (верно: false)
+2026-10-20 20:22:36.296 18096-18096 QuizActivity            com.example.practice_victorina       W  Попытка ответа без выбора варианта
+---------------------------- PROCESS ENDED (18096) for package com.example.practice_victorina ----------------------------
+2026-10-20 20:22:44.580   682-2017  WindowOrga...Controller system_server                        E  Attempting to externally change a non-organized container: Task{3c0efd8 #16 type=standard A=10233:com.example.practice_victorina}={handlePackageUpdate:false,} playercount=2 taskorg=android.window.ITaskOrganizer$Stub$Proxy@1eb7eb2
+---------------------------- PROCESS STARTED (20530) for package com.example.practice_victorina ----------------------------
+2026-10-20 20:26:27.522 20530-20530 nativeloader            com.example.practice_victorina       D  Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+2026-10-20 20:26:27.589 20530-20530 nativeloader            com.example.practice_victorina       D  Load /data/user/0/com.example.practice_victorina/code_cache/startup_agents/d77b4fbe-agent.so using system ns (caller=<unknown>): ok
+2026-10-20 20:26:27.566 20530-20530 re-initialized>         com.example.practice_victorina       W  type=1400 audit(0.0:101): avc:  granted  { execute } for  path="/data/data/com.example.practice_victorina/code_cache/startup_agents/d77b4fbe-agent.so" dev="dm-6" ino=573794 scontext=u:r:untrusted_app:s0:c233,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c233,c256,c512,c768 tclass=file app=com.example.practice_victorina
+2026-10-20 20:26:27.621 20530-20530 ctice_victorina         com.example.practice_victorina       W  hiddenapi: DexFile /data/data/com.example.practice_victorina/code_cache/.studio/instruments-c3716e42.jar is in boot class path but is not in a known location
+2026-10-20 20:26:28.208 20530-20530 ctice_victorina         com.example.practice_victorina       W  Redefining intrinsic method java.lang.Thread java.lang.Thread.currentThread(). This may cause the unexpected use of the original definition of java.lang.Thread java.lang.Thread.currentThread()in methods that have already been compiled.
+2026-10-20 20:26:28.208 20530-20530 ctice_victorina         com.example.practice_victorina       W  Redefining intrinsic method boolean java.lang.Thread.interrupted(). This may cause the unexpected use of the original definition of boolean java.lang.Thread.interrupted()in methods that have already been compiled.
+2026-10-20 20:26:28.242 20530-20530 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 333566037; UID 10233; state: ENABLED
+2026-10-20 20:26:28.594 20530-20530 nativeloader            com.example.practice_victorina       D  Configuring clns-9 for other apk /data/app/~~B34SCJwUGW-pkZsd43Fj8A==/com.example.practice_victorina-55rD6ZkxcjQFC8K9KAVlRg==/base.apk. target_sdk_version=37, uses_libraries=, library_path=/data/app/~~B34SCJwUGW-pkZsd43Fj8A==/com.example.practice_victorina-55rD6ZkxcjQFC8K9KAVlRg==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.practice_victorina
+2026-10-20 20:26:28.611 20530-20530 ActivityThread          com.example.practice_victorina       D  Set OS env TMPDIR to /data/user/0/com.example.practice_victorina/cache
+2026-10-20 20:26:28.615 20530-20530 GraphicsEnvironment     com.example.practice_victorina       V  Currently set values for:
+2026-10-20 20:26:28.615 20530-20530 GraphicsEnvironment     com.example.practice_victorina       V    angle_gl_driver_selection_pkgs=[]
+2026-10-20 20:26:28.615 20530-20530 GraphicsEnvironment     com.example.practice_victorina       V    angle_gl_driver_selection_values=[]
+2026-10-20 20:26:28.615 20530-20530 GraphicsEnvironment     com.example.practice_victorina       V  com.example.practice_victorina is not listed in per-application setting
+2026-10-20 20:26:28.616 20530-20530 GraphicsEnvironment     com.example.practice_victorina       V  No special selections for ANGLE, returning default driver choice
+2026-10-20 20:26:28.619 20530-20530 GraphicsEnvironment     com.example.practice_victorina       V  Neither updatable production driver nor prerelease driver is supported.
+2026-10-20 20:26:28.626 20530-20530 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 407952621; UID 10233; state: ENABLED
+2026-10-20 20:26:28.626 20530-20530 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 419020719; UID 10233; state: ENABLED
+2026-10-20 20:26:28.710 20530-20563 DisplayManager          com.example.practice_victorina       I  Choreographer implicitly registered for the refresh rate.
+2026-10-20 20:26:28.716 20530-20530 ProtoLog                com.example.practice_victorina       I  ProtoLog ready to log to logcat
+2026-10-20 20:26:28.717 20530-20530 ctice_victorina         com.example.practice_victorina       D  Initializing ProtoLog
+2026-10-20 20:26:28.717 20530-20530 ProtoLog                com.example.practice_victorina       D  Initializing ProtoLog DataSource
+2026-10-20 20:26:28.722 20530-20530 ProtoLogConfigListener  com.example.practice_victorina       I  Connected and registered client with 1 groups to ProtoLogConfigurationService (viewerConfig=null)
+2026-10-20 20:26:28.793 20530-20563 GFXSTREAM               com.example.practice_victorina       I  [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+2026-10-20 20:26:28.797 20530-20563 GFXSTREAM               com.example.practice_victorina       I  [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+2026-10-20 20:26:28.802 20530-20563 libc                    com.example.practice_victorina       W  Access denied finding property "vendor.mesa.virtgpu.kumquat"
+2026-10-20 20:26:28.840 20530-20563 HWUI                    com.example.practice_victorina       W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2026-10-20 20:26:28.840 20530-20563 HWUI                    com.example.practice_victorina       W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2026-10-20 20:26:28.880 20530-20530 AppCompatDelegate       com.example.practice_victorina       D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2026-10-20 20:26:29.150 20530-20530 ctice_victorina         com.example.practice_victorina       I  hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app, TargetSdkVersion=37) using reflection: allowed
+2026-10-20 20:26:29.326 20530-20530 MainActivity            com.example.practice_victorina       D  onCreate: экран создан
+2026-10-20 20:26:29.364 20530-20530 MainActivity            com.example.practice_victorina       D  onStart
+2026-10-20 20:26:29.371 20530-20530 MainActivity            com.example.practice_victorina       D  onResume
+2026-10-20 20:26:29.385 20530-20530 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 418924588; UID 10233; state: ENABLED
+2026-10-20 20:26:29.392 20530-20530 HWUI                    com.example.practice_victorina       W  Unknown dataspace 0
+2026-10-20 20:26:29.414 20530-20568 libc                    com.example.practice_victorina       W  Access denied finding property "vendor.mesa.virtgpu.kumquat"
+2026-10-20 20:26:29.434 20530-20530 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@c80bbeb
+2026-10-20 20:26:29.437 20530-20570 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 458413887; UID 10233; state: ENABLED
+2026-10-20 20:26:29.438 20530-20570 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@c80bbeb
+2026-10-20 20:26:29.447 20530-20530 VRI[MainActivity]       com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 20:26:29.467 20530-20530 HWUI                    com.example.practice_victorina       I  Using FreeType backend (prop=Auto)
+2026-10-20 20:26:29.498 20530-20530 Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-20530-0 with slotExpansion=1 for 64 slots
+2026-10-20 20:26:29.501 20530-20530 Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[MainActivity]#0(BLAST Consumer)0 with slotExpansion=1 for 64 slots
+2026-10-20 20:26:29.957 20530-20530 InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 20:26:29.957 20530-20530 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:e11d2774: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 20:26:30.374 20530-20585 ctice_victorina         com.example.practice_victorina       W  Verification of short androidx.emoji2.text.flatbuffer.MetadataItem.width() took 110.614ms (180.81 bytecodes/s) (0B arena alloc)
+2026-10-20 20:26:32.196 20530-20534 ctice_victorina         com.example.practice_victorina       I  Compiler allocated 4522KB to compile void android.view.ViewRootImpl.performTraversals(long)
+2026-10-20 20:26:34.041 20530-20613 ProfileInstaller        com.example.practice_victorina       D  Installing profile for com.example.practice_victorina
+2026-10-20 20:26:35.400 20530-20530 AutofillManager         com.example.practice_victorina       I  showAutofillDialog() return false due to improve fill dialog
+2026-10-20 20:26:35.401 20530-20530 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:79ea44a4: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true userId 0 displayId 0
+2026-10-20 20:26:35.402 20530-20530 InsetsController        com.example.practice_victorina       D  show(ime())
+2026-10-20 20:26:35.403 20530-20530 InsetsController        com.example.practice_victorina       D  Setting requestedVisibleTypes to 511 (was 503)
+2026-10-20 20:26:35.431 20530-20530 AssistStructure         com.example.practice_victorina       I  Flattened final assist data: 3072 bytes, containing 1 windows, 12 views
+2026-10-20 20:26:35.733 20530-20530 InteractionJankMonitor  com.example.practice_victorina       W  Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.example.practice_victorina
+2026-10-20 20:26:35.934 20530-20530 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:79ea44a4: onShown
+2026-10-20 20:26:38.074 20530-20530 CompatChangeReporter    com.example.practice_victorina       D  Compat change id reported: 417951523; UID 10233; state: ENABLED
+2026-10-20 20:26:38.879 20530-20530 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.widget.PopupWindow$PopupDecorView$$ExternalSyntheticLambda1@d827002
+2026-10-20 20:26:38.880 20530-20570 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.widget.PopupWindow$PopupDecorView$$ExternalSyntheticLambda1@d827002
+2026-10-20 20:26:38.887 20530-20530 Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-20530-1 with slotExpansion=1 for 64 slots
+2026-10-20 20:26:38.893 20530-20530 Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[PopupWindow:456a276]#1(BLAST Consumer)1 with slotExpansion=1 for 64 slots
+2026-10-20 20:26:38.940 20530-20530 ImeTracker              com.example.practice_victorina       I  system_server:724caa45: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2026-10-20 20:26:40.943 20530-20530 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 20:26:40.944 20530-20570 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: null
+2026-10-20 20:26:41.049 20530-20530 ImeTracker              com.example.practice_victorina       I  system_server:84539158: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2026-10-20 20:26:41.283 20530-20563 HWUI                    com.example.practice_victorina       D  endAllActiveAnimators on 0x78741fe4dc70 (DropDownListView) with handle 0x78738fe49e60
+2026-10-20 20:26:41.775 20530-20530 MainActivity            com.example.practice_victorina       I  Старт викторины: игрок 'D', тема 'Столицы государств (15 вопросов)'
+2026-10-20 20:26:41.803 20530-20530 MainActivity            com.example.practice_victorina       D  onPause
+2026-10-20 20:26:41.835 20530-20530 QuizActivity            com.example.practice_victorina       D  onCreate: экран создан
+2026-10-20 20:26:41.835 20530-20530 QuizActivity            com.example.practice_victorina       I  Запуск викторины для игрока 'D' по теме 'Столицы государств (15 вопросов)'
+2026-10-20 20:26:41.842 20530-20530 QuizActivity            com.example.practice_victorina       D  Загружено вопросов: 15
+2026-10-20 20:26:41.846 20530-20530 QuizActivity            com.example.practice_victorina       D  onStart
+2026-10-20 20:26:41.847 20530-20530 QuizActivity            com.example.practice_victorina       D  onResume
+2026-10-20 20:26:41.856 20530-20530 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@2f894e2
+2026-10-20 20:26:41.857 20530-20530 VRI[QuizActivity]       com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 20:26:41.860 20530-20570 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@2f894e2
+2026-10-20 20:26:41.862 20530-20530 Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-20530-2 with slotExpansion=1 for 64 slots
+2026-10-20 20:26:41.863 20530-20530 Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[QuizActivity]#2(BLAST Consumer)2 with slotExpansion=1 for 64 slots
+2026-10-20 20:26:42.025 20530-20530 ImeTracker              com.example.practice_victorina       I  system_server:9cbea507: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2026-10-20 20:26:42.109 20530-20530 InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 20:26:42.110 20530-20530 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:eab11205: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 20:26:42.140 20530-20530 ImeTracker              com.example.practice_victorina       I  system_server:44ec25f5: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2026-10-20 20:26:42.149 20530-20530 RemoteInpu...ectionImpl com.example.practice_victorina       W  requestCursorUpdates on inactive InputConnection
+2026-10-20 20:26:42.490 20530-20530 AutofillManager         com.example.practice_victorina       I  onInvisibleForAutofill(): expiringResponse
+2026-10-20 20:26:42.490 20530-20530 MainActivity            com.example.practice_victorina       D  onStop
+2026-10-20 20:26:43.665 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #1: выбран вариант #0 (верно: true)
+2026-10-20 20:26:45.929 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #2: выбран вариант #2 (верно: true)
+2026-10-20 20:26:46.930 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #3: выбран вариант #2 (верно: false)
+2026-10-20 20:26:48.364 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #4: выбран вариант #1 (верно: true)
+2026-10-20 20:26:50.580 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #5: выбран вариант #2 (верно: true)
+2026-10-20 20:26:51.648 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #6: выбран вариант #1 (верно: false)
+2026-10-20 20:26:52.496 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #7: выбран вариант #2 (верно: true)
+2026-10-20 20:26:53.829 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #8: выбран вариант #1 (верно: false)
+2026-10-20 20:26:54.679 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #9: выбран вариант #3 (верно: false)
+2026-10-20 20:26:55.481 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #10: выбран вариант #3 (верно: true)
+2026-10-20 20:26:56.364 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #11: выбран вариант #1 (верно: false)
+2026-10-20 20:26:57.915 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #12: выбран вариант #0 (верно: false)
+2026-10-20 20:26:59.546 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #13: выбран вариант #1 (верно: true)
+2026-10-20 20:27:00.730 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #14: выбран вариант #2 (верно: true)
+2026-10-20 20:27:01.930 20530-20530 QuizActivity            com.example.practice_victorina       I  Вопрос #15: выбран вариант #2 (верно: true)
+2026-10-20 20:27:02.052 20530-20530 QuizActivity            com.example.practice_victorina       I  Викторина завершена: результат 9 из 15
+2026-10-20 20:27:02.074 20530-20530 QuizActivity            com.example.practice_victorina       D  onPause
+2026-10-20 20:27:02.100 20530-20530 ResultActivity          com.example.practice_victorina       D  onCreate: экран создан
+2026-10-20 20:27:02.101 20530-20530 ResultActivity          com.example.practice_victorina       I  Результаты игры: игрок='D', тема='Столицы государств (15 вопросов)', верных=9/15
+2026-10-20 20:27:02.104 20530-20530 ResultActivity          com.example.practice_victorina       D  onStart
+2026-10-20 20:27:02.107 20530-20530 ResultActivity          com.example.practice_victorina       D  onResume
+2026-10-20 20:27:02.115 20530-20530 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@2eb4b80
+2026-10-20 20:27:02.115 20530-20570 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@2eb4b80
+2026-10-20 20:27:02.115 20530-20530 VRI[ResultActivity]     com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 20:27:02.120 20530-20530 Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-20530-3 with slotExpansion=1 for 64 slots
+2026-10-20 20:27:02.120 20530-20530 Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[ResultActivity]#3(BLAST Consumer)3 with slotExpansion=1 for 64 slots
+2026-10-20 20:27:02.306 20530-20530 InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 20:27:02.306 20530-20530 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:b0d67883: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 20:27:02.684 20530-20530 VRI[QuizActivity]       com.example.practice_victorina       D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 20:27:02.722 20530-20530 QuizActivity            com.example.practice_victorina       D  onStop
+2026-10-20 20:27:02.724 20530-20530 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 20:27:02.725 20530-20570 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: null
+2026-10-20 20:27:02.726 20530-20530 QuizActivity            com.example.practice_victorina       D  onDestroy
+2026-10-20 20:27:02.729 20530-20530 ViewRootImpl            com.example.practice_victorina       D  Skipping stats log for color mode
+2026-10-20 20:27:06.452 20530-20530 ResultActivity          com.example.practice_victorina       I  Нажата кнопка 'В главное меню'
+2026-10-20 20:27:06.478 20530-20530 ResultActivity          com.example.practice_victorina       D  onPause
+2026-10-20 20:27:06.492 20530-20530 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 20:27:06.493 20530-20530 MainActivity            com.example.practice_victorina       D  onDestroy
+2026-10-20 20:27:06.493 20530-20570 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: null
+2026-10-20 20:27:06.671 20530-20530 MainActivity            com.example.practice_victorina       D  onCreate: экран создан
+2026-10-20 20:27:06.676 20530-20530 MainActivity            com.example.practice_victorina       D  onStart
+2026-10-20 20:27:06.679 20530-20530 MainActivity            com.example.practice_victorina       D  onResume
+2026-10-20 20:27:06.752 20530-20530 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@92e9e1e
+2026-10-20 20:27:06.754 20530-20570 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@92e9e1e
+2026-10-20 20:27:06.757 20530-20530 VRI[MainActivity]       com.example.practice_victorina       D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 20:27:06.770 20530-20530 Surface                 com.example.practice_victorina       I  Creating surface for consumer unnamed-20530-4 with slotExpansion=1 for 64 slots
+2026-10-20 20:27:06.773 20530-20530 Surface                 com.example.practice_victorina       I  Creating surface for consumer VRI[MainActivity]#4(BLAST Consumer)4 with slotExpansion=1 for 64 slots
+2026-10-20 20:27:07.109 20530-20530 InsetsController        com.example.practice_victorina       D  hide(ime())
+2026-10-20 20:27:07.109 20530-20530 ImeTracker              com.example.practice_victorina       I  com.example.practice_victorina:a19c0eda: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 20:27:07.244 20530-20530 VRI[ResultActivity]     com.example.practice_victorina       D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 20:27:07.249 20530-20530 ResultActivity          com.example.practice_victorina       D  onStop
+2026-10-20 20:27:07.254 20530-20530 WindowOnBackDispatcher  com.example.practice_victorina       D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 20:27:07.266 20530-20570 WindowOnBackDispatcher  com.example.practice_victorina       D  setOnBackInvokedCallbackInfo: null
+2026-10-20 20:27:07.280 20530-20530 ResultActivity          com.example.practice_victorina       D  onDestroy
+2026-10-20 20:27:07.287 20530-20530 ViewRootImpl            com.example.practice_victorina       D  Skipping stats log for color mode
